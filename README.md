@@ -35,6 +35,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
+  
 ![image](https://github.com/techwiz77777/configue-ad/assets/143854558/43e840bc-6080-4a1b-adaa-7d201f288fa9)
 ![image](https://github.com/techwiz77777/configue-ad/assets/143854558/7bf9f5ae-c58d-4e22-8017-eb3c417af838)
 </p>
@@ -44,6 +45,7 @@ Here we are creating are resource groups along with setting the domain controlle
 <br />
 
 <p>
+  
 ![image](https://github.com/techwiz77777/configue-ad/assets/143854558/03594549-3ce6-43e8-b182-51bac1b7b82e)
 ![image](https://github.com/techwiz77777/configue-ad/assets/143854558/1359d6c9-fcd1-446c-a34e-4e2dfa0bd275)
 ![image](https://github.com/techwiz77777/configue-ad/assets/143854558/b1a603b2-4989-4c81-9b1b-effbdead0c64)
@@ -56,7 +58,8 @@ Here we are pinging DC-1 IP address to make sure that there's a connection, then
 </p>
 <br />
 
-<p>
+<p
+  
 ![image](https://github.com/techwiz77777/configue-ad/assets/143854558/57640166-d958-4986-a965-86119f611067)
 ![image](https://github.com/techwiz77777/configue-ad/assets/143854558/e33f3257-70bf-4943-8dd9-473a3b0f0103)
 ![image](https://github.com/techwiz77777/configue-ad/assets/143854558/2e4a587d-8ef4-4cac-b4bb-9a60f4c40e63)
