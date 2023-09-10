@@ -44,17 +44,27 @@ Here we are creating are resource groups along with setting the domain controlle
 <br />
 
 <p>
+![image](https://github.com/techwiz77777/configue-ad/assets/143854558/03594549-3ce6-43e8-b182-51bac1b7b82e)
+![image](https://github.com/techwiz77777/configue-ad/assets/143854558/1359d6c9-fcd1-446c-a34e-4e2dfa0bd275)
+![image](https://github.com/techwiz77777/configue-ad/assets/143854558/b1a603b2-4989-4c81-9b1b-effbdead0c64)
+![image](https://github.com/techwiz77777/configue-ad/assets/143854558/c68446a9-2c24-4f82-b7c4-5b443b9722b9)
+![image](https://github.com/techwiz77777/configue-ad/assets/143854558/47ae7d2c-c832-4b4c-a749-f93a1cd593a1)
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here we are pinging DC-1 IP address to make sure that there's a connection, then enable ICMPv4 in on the local windows Firewall. Afterwards, we install Active Directory, set up a new forest as mydomain.com then log in as DC-1  mydomain.com\labuser. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/techwiz77777/configue-ad/assets/143854558/57640166-d958-4986-a965-86119f611067)
+![image](https://github.com/techwiz77777/configue-ad/assets/143854558/e33f3257-70bf-4943-8dd9-473a3b0f0103)
+![image](https://github.com/techwiz77777/configue-ad/assets/143854558/2e4a587d-8ef4-4cac-b4bb-9a60f4c40e63)
+![image](https://github.com/techwiz77777/configue-ad/assets/143854558/2e921169-a50a-4b70-bea7-210c91407ef3)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here we create an organizational group for employees and admins then join Client-1 to mydoamin to setup Remote Desktop for non-administrative users on Client-1 as well. Afterwars, we create additional users to log into Client-1.
+
 </p>
 <br />
